@@ -6,13 +6,13 @@ In this tutorial we will use Intellij as IDE, other IDEs have similare configura
 
 [DVEVM](https://dcevm.github.io/) is the opensource alternative to JRebel.
 
-Download DCEVM jar from :
+Download DCEVM-8u144-installer.jar from :
 ```
-https://dcevm.github.io/ and follow the 
+https://dcevm.github.io/  
 ```
 Run it with 
 ```
-sudo java -jar name-of-jar.jar
+sudo java -jar DCEVM-8u144-installer.jar
 ```
 Choose the your java path and patch it.
 
