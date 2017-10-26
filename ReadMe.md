@@ -1,6 +1,6 @@
 # Hybris Hot Swapping
 
-Inthis tutorial we will use Intellij as IDE, other IDEs have similare configuration
+In this tutorial we will use Intellij as IDE, other IDEs have similare configuration
 
 ## DCEVM 
 
