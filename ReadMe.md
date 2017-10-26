@@ -46,9 +46,9 @@ This will add the options to wrapper configuration file
 
 2 - make sure the configuration is as follows
 
-![IntelliJ config 1](./imgs/1.png "Intellij config 1")
+![IntelliJ config 1](https://github.com/yousfiSaad/HybrisHotSwapping/blob/master/imgs/1.png "Intellij config 1")
 
-![IntelliJ config 2](./imgs/2.png "Intellij config 2")
+![IntelliJ config 2](https://github.com/yousfiSaad/HybrisHotSwapping/blob/master/imgs/2.png "Intellij config 2")
 
 
 
