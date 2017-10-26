@@ -46,9 +46,9 @@ This will add the options to wrapper configuration file
 
 2 - make sure the configuration is as follows
 
-![IntelliJ config 1](./1.png "Intellij config 1")
+![IntelliJ config 1](./imgs/1.png "Intellij config 1")
 
-![IntelliJ config 2](./2.png "Intellij config 2")
+![IntelliJ config 2](./imgs/2.png "Intellij config 2")
 
 
 
@@ -62,16 +62,3 @@ Use port 8000 to connect intellij debugger to JVM
 
 Change the code, press (: Command+Shift+F9/ ⊞: Ctrl+Shift+F9) and Enjoy ;)
 
-
-
-
-
-
-
-
-
-
-
-
-
-src: https://github.com/HotswapProjects/HotswapAgent
