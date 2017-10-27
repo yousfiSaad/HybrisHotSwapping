@@ -2,6 +2,15 @@
 
 In this tutorial we will use Intellij as IDE, other IDEs have similare configuration
 
+## Supported changes
+
+* Add/remove/modify class fields
+*  Add/remove/modify methods
+*  Add/remove/modify classes
+*  Add/remove static member of classes
+*  Handles static member initialization
+*  Add/remove/edit enums
+
 ## DCEVM 
 
 [DVEVM](https://dcevm.github.io/) is the opensource alternative to JRebel.
